@@ -1,0 +1,6 @@
+Dog: Taison, Age: 5
+Bark
+Dog is running
+Cat: Meru, Age: 3
+Meow
+Cat is walking
